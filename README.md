@@ -8,9 +8,9 @@ This mod strives to change and tweak several settings aiming for a New Game+ Exp
 Don't go further into the readme, as it contains story spoilers for the game. You've been warned!
 
 ## Main Features
-- **Improvements to many Rare Blades!**; For details, check the [Blade Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/BladeDetails.md)
+- **Improvements to many Rare Blades!**; For details, check the [Blade Section](https://github.com/drkz4ck/X2-/blob/main/BladeDetails.md)
   - An attempt to make many rare blades relevant and competitive in the main campaign and in the post-game 
-- **Weapon Improvements;** For details, check the [Weapon Section](https://github.com/drkz4ck/Xenoblade-2-Balance-Mod-/blob/main/WeaponDetails.md)
+- **Weapon Improvements;** For details, check the [Weapon Section](https://github.com/drkz4ck/X2-/blob/main/WeaponDetails.md)
 - **Driver Balancing**
   - [x] Nia Affinity Skill: Hard Hitter
     - Effect change: +20% Break Duration > +20% Topple Duration
