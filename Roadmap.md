@@ -1,0 +1,26 @@
+# Roadmap
+
+- [x] Gold and EXP gain from battles reduced
+- [x] Store deeds price increased
+- [x] Dev level discount reduced
+- [x] Balance Weapons
+- [x] Nia's Driver Skills
+- Work on Blades
+  - [ ] Pyra+
+  - [ ] E Tier: Electra, Dromarch, Finch, Kora and Godfrey
+  - [ ] D Tier Floren, Vess, Dahlia, Agaeon, Ursula, Boreas, Kasandra, Perdido
+  - [ ] C Tier (14 blades)
+  - [ ] B Tier (11 blades)
+- If needed
+  - [ ] A Tier
+  - [ ] S Tier
+  - [ ] S+ Tier
+- [ ] Work on blade pull chances
+- [ ] Battle revenue: WP and SP
+- Adjustments
+  - [ ] Mòrag's and Zeke's starting WP and SP
+  - [ ] Lower the level of temporary party members
+  - [ ] Mythra's main costume is *Massive Melee Mythra* (bl/bl130201)
+    - [ ] Swap Massive Melee Mythra costume model (bl/bl000201)
+  - [ ] Drivers start with 1 item pouch and 2 Accessory slots
+  - [ ] Consider prices and methods of acquiring item pouches and accessory slots
