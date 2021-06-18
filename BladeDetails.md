@@ -56,14 +56,14 @@ These are listed roughly from worst to best according to the "Official Community
   - ~~too slow!~~ first hit is an electric discharge, at frame 10
   - ~~small radius~~ 6m radius
   - extra damage to toppled ~~but cant take advantage because speed
-  
 - [ ] lv.2 **Shocking Assault**
-  - single hit, awful for chain attacks
-  - ether base
-  - not terrible damage ratio (605 at max affinity)
+  - **Electra gives off electric discharges once the hammer opens up and when sparks surround her**
+  - 1 hit
   - slow
   - extra damage to launched, but cant take advantage because speed
 - [ ] lv.3 **Rolling Thunder**
+  - **Electra gives off electric discharges oce thunder clouds appear above her**
+  - **The actual thunder hits a total of 5 times now**
   - Slow
   - 3 hits
   - bad effect: increases aggro drawn from specials
