@@ -50,11 +50,13 @@ These are listed roughly from worst to best according to the "Official Community
 
 **Specials**
 - [ ] lv.1 **Bang-Bang Bound**
-  - Below Average damage
-  - 3 hits
-  - small radius
-  - extra damage to toppled, but cant take advantage because speed
-  - too slow!
+  - **Now Electra gives off 3 electric discharges before the first swing and 4 befor the last swing**
+  - ~~3hits~~ 10 hits total
+  - Damage ratios: lv.1: ~~285~~ 300; lv.5: ~~410~~ 460 ; M.Affinity: ~~456~~ 500 ;
+  - ~~too slow!~~ first hit is an electric discharge, at frame 10
+  - ~~small radius~~ 6m radius
+  - extra damage to toppled ~~but cant take advantage because speed
+  
 - [ ] lv.2 **Shocking Assault**
   - single hit, awful for chain attacks
   - ether base
