@@ -57,16 +57,17 @@ These are listed roughly from worst to best according to the "Official Community
   - ~~small radius~~ 6m radius
   - extra damage to toppled ~~but cant take advantage because speed
 - [ ] lv.2 **Shocking Assault**
-  - **Electra gives off electric discharges once the hammer opens up and when sparks surround her**
-  - 1 hit
-  - slow
-  - extra damage to launched, but cant take advantage because speed
+  - **Electra gives off an electric discharge once the hammer opens up
+  - **Electra gives off electric discharges when sparks surround her**
+  - ~~1 hit~~ 7 hits
+  - ~~Slow~~ a little faster: first hit at frame 30 instead of 120
+  - extra damage to launched ~~but cant take advantage because speed
 - [ ] lv.3 **Rolling Thunder**
   - **Electra gives off electric discharges oce thunder clouds appear above her**
   - **The actual thunder hits a total of 5 times now**
-  - Slow
-  - 3 hits
-  - bad effect: increases aggro drawn from specials
+  - ~~3 hits~~ 9 hits
+  - ~~Slow~~ a little faster: first hit at frame 100 instead of 155
+  - Bad effect: increases aggro drawn from specials
 
 - [ ] lv.4 **Electrifying Show**
   - Increases damage from the front +100%
