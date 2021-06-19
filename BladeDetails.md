@@ -49,28 +49,28 @@ These are listed roughly from worst to best according to the "Official Community
   - Counters on hit
 
 **Specials**
-- [ ] lv.1 **Bang-Bang Bound**
+- lv.1 **Bang-Bang Bound**
   - **Now Electra gives off 3 electric discharges before the first swing and 4 befor the last swing**
   - ~~3hits~~ 10 hits total
   - Damage ratios: lv.1: ~~285~~ 300; lv.5: ~~410~~ 460 ; M.Affinity: ~~456~~ 500 ;
   - ~~too slow!~~ first hit is an electric discharge, at frame 10
   - ~~small radius~~ 6m radius
   - extra damage to toppled ~~but cant take advantage because speed~~
-- [ ] lv.2 **Shocking Assault**
+- lv.2 **Shocking Assault**
   - **Electra gives off an electric discharge once the hammer opens up**
   - **Electra gives off electric discharges when sparks surround her; first spark launches enemies**
   - ~~1 hit~~ 7 hits
   - ~~Slow~~ First hit at frame 30 instead of 120
   - extra damage to launched ~~but cant take advantage because speed~~
-- [ ] lv.3 **Rolling Thunder**
+- lv.3 **Rolling Thunder**
   - **Electra gives off electric discharges oce thunder clouds appear above her**
   - **The actual thunder hits a total of 5 times now**
   - ~~3 hits~~ 9 hits
   - ~~Slow~~ a little faster: first hit at frame 100 instead of 155
   - Bad effect: increases aggro drawn from specials
 
-- [ ] lv.4 **Electrifying Show**
-  - ~~lowest~~ damage ratio: ~~900~~ 1050
+- lv.4 **Electrifying Show**
+  - ~~lowest~~ damage ratio: ~~900~~ 1000
   - ~~3 hits~~ 5 hits discounting driver's, with an extra electrical discharge after each of the first two slaps on the hammer
 
 ### #50 Dromarch
