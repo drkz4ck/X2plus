@@ -39,14 +39,14 @@ These are listed roughly from worst to best according to the "Official Community
 - [ ] Aux Core Slots: ~~1~~ 3
 
 **Battle Skills**
-- [ ] **Clangy Girl**: Increases Block Rate by 20%
-- [ ] **Zappy Girl**: increases aggro every second 30/s > 175/s
-  - Aggro is damage/2
-  - At high levels you deal hundreds thousands of damage
-  - you lose aggro at a rate of -75/s
-- [ ] **Sparky Girl**: counterspike ether damage 400% > 1400%
-  - Attempt to make spikes more useful
-  - Counters on hit
+- **Clangy Girl**: Increases Block Rate by 20%
+- **Zappy Girl**: ~~increases aggro every second (30/s)~~ Increases dmg to toppled enemies and extends Topple duration.
+  - Just like Senton, from Cressidus
+    - Aggro is damage/2
+    - At high levels you deal hundreds thousands of damage
+    - you lose aggro at a rate of -75/s
+- **Sparky Girl**: counterspike ether damage at lv5: ~~400%~~ 1400%
+  - Still starts at 240% at lv1
 
 **Specials**
 - lv.1 **Bang-Bang Bound**
