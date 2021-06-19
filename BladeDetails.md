@@ -55,10 +55,10 @@ These are listed roughly from worst to best according to the "Official Community
   - Damage ratios: lv.1: ~~285~~ 300; lv.5: ~~410~~ 460 ; M.Affinity: ~~456~~ 500 ;
   - ~~too slow!~~ first hit is an electric discharge, at frame 10
   - ~~small radius~~ 6m radius
-  - extra damage to toppled ~~but cant take advantage because speed
+  - extra damage to toppled ~~but cant take advantage because speed~~
 - [ ] lv.2 **Shocking Assault**
-  - **Electra gives off an electric discharge once the hammer opens up, launching enemies**
-  - **Electra gives off electric discharges when sparks surround her**
+  - **Electra gives off an electric discharge once the hammer opens up**
+  - **Electra gives off electric discharges when sparks surround her; first spark launches enemies**
   - ~~1 hit~~ 7 hits
   - ~~Slow~~ First hit at frame 30 instead of 120
   - extra damage to launched ~~but cant take advantage because speed~~
@@ -70,8 +70,8 @@ These are listed roughly from worst to best according to the "Official Community
   - Bad effect: increases aggro drawn from specials
 
 - [ ] lv.4 **Electrifying Show**
-  - Increases damage from the front +100%
-  - lowest damage ratio
+  - ~~lowest~~ damage ratio: ~~900~~ 1050
+  - ~~3 hits~~ 5 hits discounting driver's, with an extra electrical discharge after each of the first two slaps on the hammer
 
 ### #50 Dromarch
 - [ ] Aux Cores 1 > 3
