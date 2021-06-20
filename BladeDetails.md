@@ -29,17 +29,14 @@ These are listed roughly from worst to best according to the "Official Community
 - [x] **lv.3 Blazing End** ~~+25%~~ +30% crit chance
 - [x] **lv.4 Burning Sword**: ~~+20%~~ +25% crit chance
 - [x] **lv.4-EX Union Sword**: Now deals the damage of both blades' lv.4 Special (~~1500~~ 1150+1150 = 2300 damage)
-### #0.1 Pneuma
-- [ ] Thinking of increasing her activation timer from 60s to at least 90s, maybe even more, as in BoC difficulty she's much harder and less rewarding to pull off
 
 ## =E Tier=
 ### #51 Electra
 **Status**
 - shield hammers improved overall
-- [ ] Aux Core Slots: ~~1~~ 3
+- Aux Core Slots: ~~1~~ 3
 
 **Battle Skills**
-- **Clangy Girl**: Increases Block Rate by 20%
 - **Zappy Girl**: ~~increases aggro every second (30/s)~~ Increases dmg to toppled enemies and extends Topple duration.
   - Just like Senton, from Cressidus
     - Aggro is damage/2
@@ -52,7 +49,7 @@ These are listed roughly from worst to best according to the "Official Community
 - lv.1 **Bang-Bang Bound**
   - **Now Electra gives off 3 electric discharges before the first swing and 4 befor the last swing**
   - ~~3hits~~ 10 hits total
-  - Damage ratios: lv.1: ~~285~~ 300; lv.5: ~~410~~ 460 ; M.Affinity: ~~456~~ 500 ;
+  - Damage ratios: lv.1: ~~285~~ 300; lv.5: ~~410~~ 460 ; M.Affinity: ~~456~~ 500
   - ~~too slow!~~ first hit is an electric discharge, at frame 10
   - ~~small radius~~ 6m radius
   - extra damage to toppled ~~but cant take advantage because speed~~
@@ -68,7 +65,6 @@ These are listed roughly from worst to best according to the "Official Community
   - ~~3 hits~~ 9 hits
   - ~~Slow~~ a little faster: first hit at frame 100 instead of 155
   - Bad effect: increases aggro drawn from specials
-
 - lv.4 **Electrifying Show**
   - ~~lowest~~ damage ratio: ~~900~~ 1000
   - ~~3 hits~~ 5 hits discounting driver's, with an extra electrical discharge after each of the first two slaps on the hammer
