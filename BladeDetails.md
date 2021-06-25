@@ -2,8 +2,6 @@
 These are listed roughly from worst to best according to the "Official Community Blade Tier List" videos in [this playlist](https://www.youtube.com/playlist?list=PLxTTNkdGoNpoFeHTkje_172d7mNYg7-y-)
 
 **General changes:**
-- Nerfs avoided as much as possible. The focus is to improve lesser blades. Broken Blades will be forever broken
-- [ ] Aggro Up Blade art activates more often and draws more aggro
 - [ ] Aiming to improve aggro reduction skills; If they really can't be helped, then changing them altogether
 - [ ] BitBall Blades, except for Crossette, now have a party-wide buff or support skill
 - [ ] Added +1000% to counterspike skills, making them more useful and relevant
@@ -70,35 +68,163 @@ These are listed roughly from worst to best according to the "Official Community
   - ~~3 hits~~ 5 hits discounting driver's, with an extra electrical discharge after each of the first two slaps on the hammer
 
 ### #50 Dromarch
-- [ ] Aux Cores 1 > 3
-- [x] Twin Rings have faster attack speed and less art cooldown on Nia, as an attempt to make dromarch relevant
-- [ ] Celestial Gift: Reduces Blade Combo damage received by 50%.
-  - Replace skill? Very situational and not very useful
+**Status**
+- Nia's Twin Rings moveset has improved attack speed and art cooldowns
+- Aux Core Slots ~~2~~ 3
+- Ether mod: ~~10%~~ 15%
+
+**Battle Skills**
+- All skill effects changed;
+
+- **Celestial Gift**
+  - ~~Reduces Blade Combo damage received by 50%~~ Deals extra damage at 90%+HP
+  - Original effect is extremely situational and not very useful
+  - New effect synergizes well with his healing capabilities
+- **River's Blessing**
+  - ~~Restores 5%HP when you use driver arts~~ Restores 12% HP of damage dealt after a successful auto-attack (Same as *Persevering Strength*)
+  - Original effect only affects Dromarch, whom is rarely aggroed
+  - New effect is a more interesting self-preservation skill
+- **Howl of Calm**
+  - ~~25% chance of restoring 12%HP when taking a hit~~ resists Party-gauge drain (Same as *Ocean Earring* and *Seven-Seas Earring*)
+  - Original effect only affects Dromarch, whom is rarely aggroed
+  - new effect has more utility in BoC difficulty
+
+**Specials**
+- lv.1 **Raging Tiger**
+  - ~~absorbs 100% of critical damage as HP~~ +85% crit dmg
+  - Dromarch's low critical rate renders original effect unreliable
+  - New effect comes as a happy surprise when triggered, and Dromarch still has many effective healing alternatives
+- lv.2 **Aqua Wave**
+  - **Ether waves now hits multiple times**
+  - ~~1 hit~~ 6 hits
+  - damage ratio: ~~sucks, among the lowest in the game~~ ~~360-400-440-480-520-580~~ 420-460-500-540-620
+- lv.3 **Wild Roar**
+  - **Ether shot forward hits enemies multiple times, like a whirlwind**
+  - ~~1 hit~~ 4 hits
+  - ~~Spawns potions on hit~~ restores 50% of damage dealt to party
+    - original effect is less useful than lv2 or healing halo in most scenarios
+- lv.4 **Dark Maelstrom**
+  - ~~spawn 2 health pots~~ Increases damage by 150% at 90%+ HP
+    - original effect is less useful than lv2 or healing halo in most scenarios
 
 ### #49 Finch
-- shield hammers improved overall
-- [ ] Aux Cores 1 > 3
-- [ ] Did I do That? chance of activation 20% > 30% 
-  - Making the skill more exploitable
-- [ ] Doesn't Ring a Bell chance of activation 50% > 70%
+**Status**
+- Shield hammers improved overall
+- Aux Core Slots ~~1~~ 3
+
+**Battle Skills**
+- **Did I do That?** chance of activation ~~20%~~ 38%
+  - Making the skill more exploitable/reliable
+-  **Doesn't Ring a Bell** chance of activation ~~50%~~ 70%
   - Cirsctumstances in which the skill is useful are very strict; makes sense that they have a higher chance of activation
-- [ ] Replace Surprise skill. Maybe a damage additive?
-  - Only useful for the very first attack of a battle, if the enemy doesn't spot you
+- **Surprise!**
+  - ~~surprise attack deals +200% damage~~ increase damage on every cancel up to 250% (similar to *Santo*)
+  - original effect is only useful for the very first attack of a battle, if the enemy doesn't spot you
+
+**Specials**
+- lv.1 **Blast of Fresh Air**
+  - ~~Useless~~ bonus effect: ~~+100 affinity when used~~ +150% damage at 90+% HP
+  - hate/aggro: ~~5~~ 20
+- lv.2 **Whoopsie Crazy**
+  - **Finch hits a couple more times when riding her hammer**
+  - ~~3 hits~~ 5 hits
+  - ~~single target~~ AoE just like poppi alpha's lv1 special
+  - AoE makes this a good resource for gathering aggro
+  - hate/aggro: ~~5~~ 20
+- lv.3 **Wake-Up Whirl**
+  - hate/aggro: ~~5~~ 20
+- lv.4 **Perfect Storm** 53
+  - **hammer spin now hits every turn finch makes**
+  - ~~4 hits~~ 6 hits
+  - ~~no~~ bonus effect: +100% damage to enemies targeting user
 
 ### #48 Kora
-- [ ] Aux Core 2>3
-- [ ] Stop Thinking: Enemies stop acting for some time after being hit with a special; Duration 3s>
-  - 3s is too short of a time to be really useful
-- [ ] Walking Joy: Heals when moving;
-  - replace with Potion Hoarder? healing when moving is not very useful, because you cannot attack then
+**Status**
+- Aux Core Slots: ~~2~~ 3
+- Ether mod: ~~10%~~ 15%
+
+**Blade Arts**
+- 1 back attack up 50
+- 2 ~~none~~ debuff cancel
+
+**Battle Skills**
+- **Stop Thinking**
+  - 80% chance to stop the enemy from moving for ~~3s~~ 7s
+  - doesn't interrupt if enemy is already doing something
+  - 3s is just too short to be impactful, because kora cant spam specials
+  - ~~all specials have only 1 hit~~
+  - specials with more hits increase the chance of activation
+  - wider time-window allows for exploiting and usefulness
+- **Walking Joy**
+  - ~~restores hp while moving~~ extends the time pots stay on field
+  - original effect only affects kora
+  - kora doesn't get aggro to need much healing
+  - time spent moving is time wasted not attacking
+  - swapped with potion hoarder original effect
+- **Potion Hoarder**
+  - ~~extends the time pots stay on field~~ collecting potions increase damage (like gathering sparks)
+  - no very useful, as potions come by easy
+  - makes up for the lack of healing arts on the knuckle claws
+
+**Specials**
+- all specials damage buffed to make up for low hit count all around
+- lv.1 **Electric Pompom**
+  - **sparks now hit multiple times**
+  - ~~1 hit~~ 3 hits
+  - feels slow
+  - average damage: ~~300-340-380-420-460-480~~ 300-342-384-426-468-510
+  - effect: ~~increased damage on launch~~ spawns 2 potions
+- lv.2 **Vivid Love**
+  - **hits multiple times when the heart explodes**
+  - ~~1 hit~~ 4 hits
+  - ~~below~~ average damage: ~~400-440-480-520-560-580~~ 400-444-488-532-576-620
+  - not that fast
+  - effect: ~~spawn potions~~ restores damage dealt to the party
+- lv.3 **Angelic Drop**
+  - **electrical stomp gives off multiple electric discharges, hitting multiple times**
+  - ~~1 hit~~ 3 hits
+  - ~~average~~ damage ratio: ~~500-550-600-650-700-748~~ 500-560-620-680-740-800
+  - ~~25%~~ 20% crit hit modifier
+  - ~~restores damage dealt to party~~ +150% dmg at high 90%+hp
+- lv.4 **Sweet Emotion**
+  - multiple hits
+  - ~~20%~~ 30% crit hit mod
+  - damage: ~~900~~ 1100. Aggressive increase, otherwise kora is trash
+  - ~~spawns 2 pots~~ +85% crit damage
+  - swapped 3 and 4 crit hit mod to make better use of new effect
 
 ### #47 Godfrey
-(I'm very excited about this one)
-- shield hammers improved overall
-- [ ] Aux Cores 1 > 3
-- [ ] Got Guts: takes 36% less dmage at low HP; 30% and lower > 50% and lower (I increased the threshold for it to not conflict whith his healing passive, that normaly  activates at the same HP percentage and because being at low HP is too dangerous)
-- Fierce Fervor: damage increase against higher level enemies 80% > 130% (he needs a damage boost, and at just conditional 80% it's hard to keep up with other blades)
+**Status**
+- Aux Core Slots: ~~2~~ 3
+- Cooldown: ~~3~~ 4 (750 > 600)
+- ~~HP mod~~ Strength mod: 15%
 
+**Battle Skills**
+- **Got the Guts**
+  - take from ~~24%~~ 22% at lvl1 to ~~36%~~ 50% at lv5 less damage at ~~30%-~~ 50%-HP
+  - originally at odds with *Light of justice*
+  - raised treshhold to make it sinergyze with new Light of Justice and last longer with low health
+- **Fierce Fervor**
+  - ~~+80%~~ 150% damage to higher level enemies
+  - while its an easy condition, 80% is too little
+- **Light of Justice**
+  - ~~restores 1.4%HP/s at 30-%HP~~ +150% damage at 50-%HP
+
+**Specials**
+- lv.1 **Tough Break**
+  - **Icy winds around Godfrey hit the enemies multiple times**
+  - ~~1 hit~~ 4 hits
+  - ~~pretty average~~ damage ratio: ~~300-340-380-420-460-480~~ 300-342-384-426-468-500
+  - ~~+100% dmg to enemies targeting user~~ +dmg from the front
+- lv.2 **Cold Judgmet** 
+  - ~~not super high~~ damage ration: ~~400-440-480-520-560-580~~ 400-444-488-532-576-600
+- lv.3 **Justice Blizzard** 
+  - **Final icy explosion hits enemies multiple times**
+  - ~~5 hits~~
+  - damage: ~~500-540-580-620-660-680~~ 550-590-640-680-720-760
+  - ~~+150% dmg at 30%-HP~~ +100% dmg to enemies targeting user
+- lv.4 **Whiteout** 31
+  - ~~no special effect~~ +100% dmg to higher lv enemies
 ## =D Tier=
 
 ### #46 Floren
