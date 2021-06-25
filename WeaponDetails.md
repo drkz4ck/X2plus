@@ -25,16 +25,11 @@ Just by improving a few drivers and having them ascend the list, the chart looks
 
 All Drivers:
 Hammers now might be faster than the monado, but they really needed some buffs to be even viable. Monado comes with lots of other numerous advantadges over the hammer, so I think it's still in a very good spot.
-- [x] auto atks 1 and 2 have 25% faster animations
-- [x] auto atk 3 has 30% faster animations
-- [x] 20% faster Arts animations
-  - This might mean the shield art ends sooner; unsure
 - [x] art cooldowns at lv 1 reduced; keeping level progression
   - 14>11; 12>9; 11>8 and 8>6
-- [x] Auto atk 1 damage increase 50 > 65
-  - auto atk 2 is still a 60% increase and auto atk 3 still a 50% increase (104 and 156, respectively)
-- [x] Damage values of Fiora's Knives; min from 16 to 18 and max from 738 to 826
-- [x] Critical Values of  Ether Cannons; min from 1 to 3 and max from 10 to 20
+- [x] Auto A.Attacks damage ratio ~~50-80-120~~ 65-104-156
+- [x] Damage values like Fiora's Knives; min 16 to 18 and max from 738 to 826
+- [x] Critical Values like Ether Cannons; min from 1 to 3 and max from 10 to 20
   - Higher damage, but lower crit rate than the chroma katana
 - [ ] Additional Weapon Effect, up to debate
 - Attack Speeds:
@@ -53,17 +48,16 @@ Hammers now might be faster than the monado, but they really needed some buffs t
     - Buckler Slam ~~100~~ ~~120~~ 155 
     - Hammerhead ~~100~~ ~~120~~ 155 
   - **Mórag**
-    - A.A 1 and 2 ~~100~~ 
-    - A.A 3 ~~100~~ 
-    - Driving Swing ~~100~~ ~~120~~ 130 
-    - Power Hammer ~~100~~ ~~120~~ 155
-    - Mighty Beat ~~100~~ ~~120~~ 155
+    - A.A 1 and 2 ~~100~~ 125
+    - A.A 2 ~~100~~ ~~125~~ 150
+    - A.A 3 ~~100~~ ~~130~~ 135
+    - Vajra Blow ~~100~~ ~~120~~ 1325
+    - Battle Top ~~100~~ ~~120~~ 165
+    - Mountain Crusher ~~100~~ 120
+    - Decimator ~~100~~ ~~120~~ 150
   - **Zeke**
-    - A.A 1 and 2 ~~100~~ 
-    - A.A 3 ~~100~~ 
-    - Driving Swing ~~100~~ ~~120~~ 130 
-    - Power Hammer ~~100~~ ~~120~~ 155
-    - Mighty Beat ~~100~~ ~~120~~ 155
+    - All arts ~~100~~ 120
+    - 
 **Twin Rings (And Clones)**
 
 Twin Rings and their clones are improved specifficaly for Nia, as an effort both to make Dromarch more relevant for her and Nia a more balanced Driver, with more solid weapon types to choose from.
