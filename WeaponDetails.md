@@ -37,7 +37,33 @@ Hammers now might be faster than the monado, but they really needed some buffs t
 - [x] Critical Values of  Ether Cannons; min from 1 to 3 and max from 10 to 20
   - Higher damage, but lower crit rate than the chroma katana
 - [ ] Additional Weapon Effect, up to debate
-
+- Attack Speeds:
+  - A.A 
+  - **Rex**
+    - A.A 1 and 2 ~~100~~ 125
+    - A.A 3 ~~100~~ 130
+    - Iron Wall ~~100~~ 120
+    - Driving Swing ~~100~~ ~~120~~ 130 
+    - Power Hammer ~~100~~ ~~120~~ 155
+    - Mighty Beat ~~100~~ ~~120~~ 155
+  - **Nia**
+    - A.A 1 and 2 ~~100~~ 125
+    - A.A 3 ~~100~~ 130
+    - Rumbling Smash ~~100~~ ~~120~~ 185
+    - Buckler Slam ~~100~~ ~~120~~ 155 
+    - Hammerhead ~~100~~ ~~120~~ 155 
+  - **Mórag**
+    - A.A 1 and 2 ~~100~~ 
+    - A.A 3 ~~100~~ 
+    - Driving Swing ~~100~~ ~~120~~ 130 
+    - Power Hammer ~~100~~ ~~120~~ 155
+    - Mighty Beat ~~100~~ ~~120~~ 155
+  - **Zeke**
+    - A.A 1 and 2 ~~100~~ 
+    - A.A 3 ~~100~~ 
+    - Driving Swing ~~100~~ ~~120~~ 130 
+    - Power Hammer ~~100~~ ~~120~~ 155
+    - Mighty Beat ~~100~~ ~~120~~ 155
 **Twin Rings (And Clones)**
 
 Twin Rings and their clones are improved specifficaly for Nia, as an effort both to make Dromarch more relevant for her and Nia a more balanced Driver, with more solid weapon types to choose from.
