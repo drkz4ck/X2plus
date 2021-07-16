@@ -2,11 +2,14 @@
 These are listed roughly from worst to best according to the "Official Community Blade Tier List" videos in [this playlist](https://www.youtube.com/playlist?list=PLxTTNkdGoNpoFeHTkje_172d7mNYg7-y-)
 
 **General changes:**
-- [ ] Aiming to improve aggro reduction skills; If they really can't be helped, then changing them altogether
-- [ ] BitBall Blades, except for Crossette, now have a party-wide buff or support skill
-- [ ] Added +1000% to counterspike skills, making them more useful and relevant
+- Aiming to improve aggro reduction skills; If they really can't be helped, then changing them altogether
+- BitBall Blades, except for Crossette, now have a party-wide buff or support skills
+- Added +1000% to counterspike skills, making them more useful and relevant
 
 ### #0 Pyra
+<details>
+  <summary>see more</summary>
+
 **Status**
 - [x] Aux Cores Slots: ~~2~~ 3
 - [x] phys def ~~5%~~ 10%
@@ -27,9 +30,13 @@ These are listed roughly from worst to best according to the "Official Community
 - [x] **lv.3 Blazing End** ~~+25%~~ +30% crit chance
 - [x] **lv.4 Burning Sword**: ~~+20%~~ +25% crit chance
 - [x] **lv.4-EX Union Sword**: Now deals the damage of both blades' lv.4 Special (~~1500~~ 1150+1150 = 2300 damage)
+</details>
 
 ## =E Tier=
 ### #51 Electra
+<details>
+  <summary>see more</summary>
+  
 **Status**
 - shield hammers improved overall
 - Aux Core Slots: ~~1~~ 3
@@ -66,8 +73,12 @@ These are listed roughly from worst to best according to the "Official Community
 - lv.4 **Electrifying Show**
   - ~~lowest~~ damage ratio: ~~900~~ 1000
   - ~~3 hits~~ 5 hits discounting driver's, with an extra electrical discharge after each of the first two slaps on the hammer
+</details>
 
 ### #50 Dromarch
+<details>
+  <summary>see more</summary>
+  
 **Status**
 - Nia's Twin Rings moveset has improved attack speed and art cooldowns
 - Aux Core Slots ~~2~~ 3
@@ -106,8 +117,12 @@ These are listed roughly from worst to best according to the "Official Community
 - lv.4 **Dark Maelstrom**
   - ~~spawn 2 health pots~~ Increases damage by 150% at 90%+ HP
     - original effect is less useful than lv2 or healing halo in most scenarios
+</details>
 
 ### #49 Finch
+<details>
+  <summary>see more</summary>
+
 **Status**
 - Shield hammers improved overall
 - Aux Core Slots ~~1~~ 3
@@ -137,8 +152,12 @@ These are listed roughly from worst to best according to the "Official Community
   - **hammer spin now hits every turn finch makes**
   - ~~4 hits~~ 6 hits
   - ~~no~~ bonus effect: +100% damage to enemies targeting user
+</details>
 
 ### #48 Kora
+<details>
+  <summary>see more</summary>
+
 **Status**
 - Aux Core Slots: ~~2~~ 3
 - Ether mod: ~~10%~~ 15%
@@ -192,8 +211,12 @@ These are listed roughly from worst to best according to the "Official Community
   - damage: ~~900~~ 1100. Aggressive increase, otherwise kora is trash
   - ~~spawns 2 pots~~ +85% crit damage
   - swapped 3 and 4 crit hit mod to make better use of new effect
+</details>
 
 ### #47 Godfrey
+<details>
+  <summary>see more</summary>
+
 **Status**
 - Aux Core Slots: ~~2~~ 3
 - Cooldown: ~~3~~ 4 (750 > 600)
@@ -225,45 +248,315 @@ These are listed roughly from worst to best according to the "Official Community
   - ~~+150% dmg at 30%-HP~~ +100% dmg to enemies targeting user
 - lv.4 **Whiteout** 31
   - ~~no special effect~~ +100% dmg to higher lv enemies
+</details>
+
 ## =D Tier=
 
 ### #46 Floren
-- Aux Cores 2 > 3
-- *Coming of Spring 25% > 50%
-- White Lillies (aggro reduction) replaced; thinking of Headwind (20% dmg reduction for the party)*
+<details>
+  <summary>click here!</summary>
+
+- Floren has a more party oriented support-role, with abilities that have a defensive focus
+- Aux Core Slots: ~~2~~ 3
+- Phys defense: ~~5%~~ 30%
+- Ether defense: ~~35%~~ 10%
+- Ether Mod: ~~10%~~ 15%
+- defenses more inline with the earth element
+- defenses are now opposite from Dahlia
+
+*Battle Skills*
+- **White Lillies**
+  - ~~+30% Aggro reduction~~ Reduces party damage taken by 20% at max Affinity
+  - og probably useless, as floren rarely gets aggro
+- **Blossomfall**
+  - ~~restores team HP upon death~~ Increases party resistance to all debuffs by 40%
+  - floren not likely to get aggro and die before other party members
+  - there are many easier ways to heal
+  - dying as a stratgy is not very smart
+- **Coming of Sping**
+  - ~~Healing is more effective at max affinity~~ +100%dmg at 90%+HP
+  - Floren can already full heal without this bonus
+
+*Specials*
+- lv.1 **Lavender Drive**
+  - **each hit has a chance to inflict break**
+  - effect: ~~+150% dmg to launched enemies~~ +blade combo damage
+- lv.2 **Lillium Dance**
+  - effect: heals ~~50%~~ 10% of damage dealt to party
+- lv.3 **Physalis Judgement**
+  - **giant ball now hits multiple times; Blowdown lv3 on first hit**
+  - ~~1 hit~~ 3 hits
+  - effect: ~~spawns health potions~~ annuls guard
+- lv.4 **Lethal Lavender**
+  - damage ratio: ~~1000~~ 900
+  - effect: ~~heals 50% of damage dealt to party~~ +30% fusion combo effect
+</details>
 
 ### #45 Vess
-- phys def 0% > 5%
-- *Space Tea Time 20% > 30%
-- *Not the Plan 15% > 25%
-- *Sympathy change it for something else*
+<details>
+  <summary>click here!</summary>
+
+- Vess has a more party oriented support-role, with abilities that focus on critical hits
+- Aux Core Slots: ~~2~~ 3
+- Phys defense: ~~0%~~ 10%
+- Ether defense: ~~25%~~ 20%
+- HP Mod: ~~10%~~ 15%
+
+*Battle Skills*
+- **Not part of the plan**
+  - ~~+15% crit rate~~ +dmg for each crit
+  - giving her some uniqueness besides just the same crit rate increase as mythra
+- **Sympathy**
+  - ~~+affinity when someone misses an attack~~ +crit to party at max affinity
+- **space-tea-time**
+  - ~~Reduces recharge of enemies by 20% at max affinity~~ +party gauge for each crit
+  - most really dangerous enemy attacks are only used once in fights
+  - other attacks have short enough cooldowns that it doesn't make a difference
+
+*Specials*
+- lv.1 **Healing Bolt**
+  - **each thunder wave hits 3 times**
+  - ~~2 hits~~ 6 hits
+  - effect: restores ~~50%~~ 10% dmg to party
+- lv.2 **ball lightning**
+  - **the electrical sphere hits multiple times as it dissipates**
+  - ~~1 hits~~ 5 hits
+  - damage ratios: 400-440-480-520-560-~~580~~609
+  - effect: ~~+dmg to machines~~ 40% aggro reduction on hit
+    - og effect is super niche, not very useful outside of one particular area of the game
+    - new effect can be useful if the new buffs give her too much aggro
+- lv.3 **Thunderstrike**
+  - ~~25%~~ 20% crit hit mod
+  - effect: ~~spawns health potions~~ +dmg at full health
+- lv.4 **Divine Plasma**
+  - **many balls are thrown, hitting multiple times**
+  - ~~1 hit~~ 8 hits
+  - ~~single target~~ 7m aoe around target
+  - ~~20%~~ 25% crit mod
+  - damage ratio: ~~925~~ 1000
+  - effect: ~~restores 50% dmg to party~~ +crit damage
+  - swapped lv3 and lv4 crit mods
+</details>
 
 ### #44 Dahlia
-*Not sure what to do with her yet
+<details>
+  <summary>click here!</summary>
 
-### #43 Ageon
-- Aux Cores 2> 3
-- *someway to help him draw and keep aggro
+- Aux Core Slots: ~~2~~ 3
+- Phys defense: ~~5%~~ 10%
+- Ether defense: ~~35%~~ 30%
+- Dex Mod: ~~10%~~ 15%
+- Cooldown: 4
+
+*Battle Skills*
+- **Opportunist**
+  - ~~+30% crit rate to party in chain attacks~~ Deal 100% more and take 30% less damage at max Affinity
+- **Fireworks** 119
+  - ~~+225% on launched~~ +80% critical damage
+  - og is overshadowed by crossete's skill
+- **Spotlight**
+  - ~~Damages nearby element orbs in chain attacks~~  +dmg at 90%+ HP
+  - og only useful in chain attacks, and dahlia is not very useful herself n chain attacks
+  - moved skill into her lv1 special
+
+*Specials*
+- lv.1 **Crystal Blizzard**
+  - effect: ~~+85% crit damage~~ chance to hit nearby orbs
+- lv.2 **Snowblind**
+  - kinda low damage ratio: 400-440-480-520-560-~~580~~609
+  - effect: ~~spanws pots~~ +85% crit damage
+- lv.3 **Frost Queen**
+  - **hits multiple time once the ice pillar rises up**
+  - ~~1 hit~~ 10 hits
+  - effect: restore ~~50%~~ 10% dmg to party
+- lv.4 **Silver Snow Glory**
+  - damage ratio: ~~950~~ 1050
+  - effect: ~~restore dmg to party~~ +dmg at high HP
+</details>
+
+### #43 Aegaeon
+<details>
+  <summary>click here!</summary>
+
+- Aux Core Slots: ~~2~~ 3
+- Phys defense: 25%
+- Ether defense: 25%
+- Agility Mod: 15%
+- Cooldown: 4
+
+*Battle Skills*
+- **Enlightment** 36
+  - +60% evasion at low health
+- **Like Water** 35
+  - ~~+60% evasion when moving~~ Specials can purge rage
+  - time spent moving is time not attacking
+- **Serene Heart** 34
+  - ~~in max affinity, Evades all attacks for 18s~~ +dmg after evading
+  - Aegaeon already can evade consistently without this skill
+  - He lacks damage output, struggles with aggro
+
+*Specials*
+- lv.1 **Water Moon**
+  - **water edge now hits multiple times as it goes through enemies**
+  - ~~1 hits~~ 3 hits
+  - ~~single target~~ hits in a straight line
+- lv.2 **Breaking Wave**
+  - ~~25%~~ 0% crit mod
+  - effect: ~~+85% crit dmg~~ +100% dmg to enemies targetting user
+- lv.3 **Midnight Mist**
+  - ~~0%~~ 25% crit mod
+  - effect: ~~+100% dmg to enemies targetting user~~ +85% crit dmg
+  - swapped lv2 and lv3 crit mods and effects to take advantage of a higher hit count
+- lv.4 **Sea God's Tidal Wave**
+  - **special now pierces**
+</details>
 
 ### #42 Ursula
-- Aux Cores 1>3
-- Snow Charm: party wide-shield at max affinity; Shield damage 60% Max HP> 100% Max HP (This is all she's got going for her, and it's mostly only activated once per battle)
-- *Hide and Seek (aggro reduction)
+<details>
+  <summary>click here!</summary>
+
+- Aux Core Slots: ~~1~~ 3
+- Phys defense: ~~10%~~ 5%
+- Ether defense: ~~30%~~ 5%
+- ~~Agility Mod: 10%~~ Strength Mod: 15%
+- Cooldown: 3
+- New Blade Art: Back Attack Up
+- New Blade Art: Arts Plus
+
+*Battle Skills*
+- **Hide and Seek**
+  - ~~Reduces aggro drawn from arts and specials by 45%~~ +dmg from the back
+  - Ursula doesn't do much damage; unlikely to get aggro
+- **Beary Healing**
+  - ~~Heals party by 40% on switch~~ heals party 1% of all damage dealt
+  - 40% is nothing over many better options for healing
+  - now ursula is always healing the party, as long as she's attacking
+- **Snow Charm**
+  - unchanged
+
+*Specials*
+- lv.1 **Beary Strong**
+  - effect: ~~spawns pots~~ 40% aggro reduction on hit
+- lv.2 **Beary Helpful**
+  - **ice blast now hits more times**
+  - ~~1 hits~~ 4 hits
+  - damage ratio: ~~380-410-440-470-500-551~~ 380-430-480-530-580-609
+  - effect: ~~restores party hp~~ +crit dmg
+- lv.3 **Beary-Go-round**
+  - effect: ~~+dmg at low HP~~ +dmg at high HP
+- lv.4 **Ursine Phantasm**
+  - effect: ~~restores party hp~~ +150% dmg from the back
+</details>
 
 ### #41 Boreas
-- Aux Cores 1>3
-- *some way to keep more aggro/more damage
+<details>
+  <summary>click here!</summary>
 
-### #39 Kassandra
-- *more aggro/s
-- *Calamity 30%>50%
-- *Special 3 Secret Desire 30%HP>50%HP
+- Aux Core Slots: ~~1~~ 3
+- Phys defense: 20%
+- Ether defense: 30%
+- ~~HP Mod: 15%~~ Agility Mod: 20%
+- Cooldown: 5
+- Specials have a higher aggro rate, to help him work as a tank
+
+*Battle Skills*
+- **Tasty Snack**
+  - ~~party heal when defeating enemy~~ +dmg when evading
+  - boreas already has good and consistent healing options
+  - useless outside multi-enemy fights
+  - giving him ways to deal more damage and keep aggro
+- **Look Out!**
+  - ~~+45% evasion to user~~ +50% evasion and accuracy to party at max affinity 1556-1560
+  - making healer classes skills more party-oriented
+- **Twang!**
+  - 50% chance of knockback when hit
+
+*Specials*
+- lv.1 **Open Wide!**
+  - aggro/hate rate: ~~5~~ 30
+  - effect: ~~crit heal~~ +dmg targetting user
+- lv.2 **Snack on This!**
+  - aggro/hate rate: ~~5~~ 30
+  - damage ratio: ~~400-440-480-520-560-580~~ 440-480-520-560-600-638
+  - effect: ~~user heal~~ 10% party heal
+- lv.3 **Gobble 'Em Up!**
+  - aggro/hate rate: ~~5~~ 30
+  - effect: ~~party heal~~ +100% aggro from specials
+- lv.4 **Gobble Gobble**
+  - **Boreas hits enemies as soon as he starts to spin on the ground**
+  - aggro/hate rate: ~~10~~ 35
+  - ~~2 hits~~ 6 hits
+</details>
+
+### #39 Kasandra
+<details>
+  <summary>click here!</summary>
+
+- Shield Hammers Improved Overall
+- Aux Core Slots: ~~2~~ 3
+- Phys defense: ~~30%~~ 25%
+- Ether defense: 25%
+- ~~HP~~ Luck Mod: 15%
+- Cooldown: 4
+
+*Battle Skills*
+- **Stability**
+  - ~~+50%~~ 100% dmg from the front
+- **Fortune**
+  - ~~30% crit heal~~ +80% critical damage
+- **Calamity**
+  - ~~+30%~~ +55% all attack aggro
+
+*Specials*
+- lv.1 **Sentimental burst**
+  - **dark sphere hits enemies as it grows**
+  - **First hit hits as soon as frame 1!**
+  - hits: ~~1~~ 5
+  - speed: ~~slow as heck~~ hits much sooner, but still takes a while to finish
+  - effect: ~~+100% aggro~~ restore 20% damage to self
+- lv.2 **Hidden Emotion**
+  - **dark streams hit multiple times**
+  - hits: ~~1~~ 7
+  - effect: +100% to enemies targeting
+- lv.3 **Secret Desire**
+  - effect: ~~+dmg at low health~~ +dmg at high hp
+- lv.4 **Melancholic Break**
+  - effect: ~~none~~ +100% to enemies targeting
+</details>
 
 ### #38 Perdido
-- Aux Cores 2>3
-- physical and ether defenses 5%>10%
-- improved attack speed (detailed in weapon section, his main gimmick is improved auto attacks, so I thought a nudge in that direction would make him more relevant)
-- reduced art cooldown  (as is it's just way too high)
+<details>
+  <summary>see more</summary>
+
+- Decimation Cannon Improved
+  - faster animations
+  - higher crit rate
+- Aux Core Slots: ~~2~~ 3
+- Phys defense: ~~5%~~ 10%
+- Ether defense: ~~5%~~ 10%
+- ~~Strength Mod: 10%~~ Dexterity Mod: 20%
+- Cooldown: 4
+
+*Battle Skills*
+- **Doublestrike**
+  - Guarantees auto-atk hits 2x; increasing ~~30%~~ 50% of dmg dealt
+- **Stay True** 
+  - ~~+100%~~ +200% auto-attack dmg change
+- **Bushido**
+  - ~~+50% dmg from the front~~ Increases critical damage by 50%
+
+*Specials*
+- lv.1 **Diamond Crash**
+  - effect: ~~+150% dmg to toppled~~ aggro reduction
+- lv.2 **Diamond Flight**
+  - **fire vortex hits more times**
+  - hits: ~~5~~ 7
+  - effect: ~~aggro reduction~~  +150% dmg from the side
+- lv.3 **Diamond Hands**
+  - no change
+- lv.4 **Diamond Inferno** 
+  - effect: ~~none~~ +85% crit damage
+</details>
 
 ## =C Tier=
 ### #37 Cressidus
